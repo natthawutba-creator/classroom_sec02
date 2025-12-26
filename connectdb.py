@@ -1,4 +1,2 @@
-c = "connect db"
-user = "n"
-password = "999"
+c = "Function Login"
 print(c)
